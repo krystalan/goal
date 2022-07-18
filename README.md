@@ -2,7 +2,7 @@
 
 ## GOAL: Towards Benchmarking Few-Shot Sports Game Summarization
 
-This repository contains the data and codes for our preprint paper *GOAL: Towards Benchmarking Few-Shot Sports Game Summarization* (still a work in progress)
+This repository contains the data and codes for our preprint paper *[GOAL: Towards Benchmarking Few-Shot Sports Game Summarization](https://wangjiaan.cn/files/goal.pdf)* (still a work in progress)
 
 
 ### Data
