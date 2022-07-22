@@ -8,6 +8,7 @@ This repository contains the data and codes for our preprint paper *[GOAL: Towar
 ### Data
 - `data/goal.json`: 103 labeled samples
 - `data/goal_semi.json`: 2,160 unlabeled samples
+- `data/goal_Zh.json`: 103 translated sports news
 
 The format of each JSON file is as follows:
 ```python
